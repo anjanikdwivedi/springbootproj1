@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import com.wipro.SpringBootPrj1.Employee;
 import com.wipro.SpringBootPrj1.service.BankService;
-
+//controller definition
 @Controller
 public class BankController {
 	
